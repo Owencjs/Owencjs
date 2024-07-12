@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+# I'm Owencjs 
+
+## a big fan of pull requests
+
+🔭 I’m currently working on **C1 wiki**  
+💬 Talk with me on Dingtalk or Wechat  
+📫 Contact me on Owen_cjs@163.com
+
+----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owencjs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Owencjs/Owencjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
