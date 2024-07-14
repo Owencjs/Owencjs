@@ -22,6 +22,6 @@
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Owencjs&locale=cn&line_height=33&show_icons=true&hide=stars,issues&theme=dark&rank_icon=github&custom_title=今日数据"/>
                       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owencjs)](https://github.com/Owencjsa/github-readme-stats)  
-**今日访客**
+**累计访客**
 <img src="https://profile-counter.glitch.me/Owencjs/count.svg" />
 </div>
