@@ -10,7 +10,7 @@
 
 ## 链接直达
 <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/C1_wiki(即将公测|链接未开放)-%23096db1?style=flat-square"/></a>
-<a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili个人主页-%230de2f8?style=flat-square"/></a>
+<a href="https://space.bilibili.com/3493089683442659?spm_id_from=333.1007.0.0" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili个人主页-%230de2f8?style=flat-square"/></a>
 
 
 ## 统计信息 
